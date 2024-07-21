@@ -1,4 +1,4 @@
-# coreml-object-detection
+# Object Detector App iOS
 a machine learning demo app for IOS, using YOLOv7 model for object detection
 
 
